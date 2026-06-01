@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi 👋, I'm [Username] !</h1>
+  <h1>Hi 👋, I'm 박한솔Park HanSol !</h1>
   <p><strong>AI 백엔드 7기 과정 수료중인 예비 백엔드 개발자입니다.</strong></p>
   <p><em>백엔드 관련 실무 경험을 쌓고, 훌륭한 개발자로 성장하기 위해 끊임없이 노력하고 있습니다.</em></p>
 </div>
